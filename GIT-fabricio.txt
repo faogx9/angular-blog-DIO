@@ -1,0 +1,15 @@
+crie o repositorio no github
+
+--dentro da pasta do projeto criado
+sudo git init
+sudo git add .
+sudo git commit -m "projeto criado"
+sudo git branch -m main
+git remote add origin https://github.com/faogx9/angular-blog-DIO.git
+sudo git push -u origin main
+
+
+--proximas atualilzacoes
+sudo git add .
+sudo git commit -m "components criados"
+sudo git push -u origin main
